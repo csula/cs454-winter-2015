@@ -45,7 +45,7 @@ The schedule below is tentative and is subject to change.
 
 * Final Presentation.  More information follow.
 
-## References and Reading Assignment
+## References
 
 Throughout the course, we will read and discuss a number of papers. Students are expected to read and discuss papers.
 
