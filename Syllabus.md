@@ -1,5 +1,9 @@
 # Search Engines Information Retrieval in Practice
 
+**Objective** This course will cover web search engines and their foundation, principles, and elements.
+
+**Expection** The class will include lectures on topics relating specifically to search engine technologies and on supplemental paper reading assignments. 
+
 ## Course Logistics
 
 **Instructor** John J. Tran
@@ -8,14 +12,22 @@
 
 **Office Hours** Saturday 5:15 PM - 6:15 PM or by appointment
 
-**Text Book** _Search Engines: Information Retrieval in Practice_ by Bruce Croft, Donald Metzler, and Trevor Strohman. ISBN: 978-0136072249.  Can be obtained from [amazon](http://www.amazon.com/Search-Engines-Information-Retrieval-Practice/dp/0136072240) or the CSULA book store.
+**Text Book** _Search Engines: Information Retrieval in Practice_ by Bruce Croft, Donald Metzler, and Trevor Strohman. ISBN: 978-0136072249.  Can be obtained from [Amazon](http://www.amazon.com/Search-Engines-Information-Retrieval-Practice/dp/0136072240) or the CSULA book store.
 
 ## Grading Allocation
+
+There will be 4 quizzes that are based on textbook and papers. The course will also include 4 programming assignments and a final project.
 
 1. Quiz - 20 points
 2. Homework - 60 points
 3. Project - 15 points
 4. Class Participation - 5 points
+
+**Final Project** These homework assignments culminate a final project: a fully functional search engine. Students will engage in a team or individual project to leverage the search engine techniques learned during the course (e.g., ranking, crawling, content analysis and detection, and query models). **Successful completion of the course project is a requirement for passing this course.**
+
+## Course Schedule
+
+The schedule below is tentative and is subject to change.
 
 ## References and Reading Assignment
 
