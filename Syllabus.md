@@ -27,4 +27,12 @@ Throughout the course, we we read and discuss a number of papers. Students are e
 4. A. Tomkins, Hypersearching the Web. Scientific American, June 1999.
 5. Clough, P. Extracting metadata for spatially-aware information retrieval on the internet. Proceedings of the Workshop on Geographic Information Retrieval, pp. 25-30, 2005.
 6. Hastorun et al. Dynamo: Amazon's Highly Available Key-Value Store. Proceedings of the ACM Symposium on Operating System Principles (SOSP). pp. 205-220, 2007.
-
+7. Hogan, A. and A. Harth, J. Umrich, S. Decker.Towards a scalable search and query engine for the web.Proceedings of the 16th International Conference on the World Wide Web, 2007.
+8. Kleinberg, J. Authoritative sources in a hyperlinked environment. Proc. 9th ACM-SIAM Symposium on Discrete Algorithms, 1998.
+9. Maarek, Y. S. and F. Z. Smadja. Full text indexing based on lexical relations an application: software libraries. ACM SIGIR Forum. volume 23, issue SI. pp. 198-206, 1989.
+10. Manku, G. and A. Jain, A. Das Sarma. Detecting near-duplicates for web crawling. WWW 2007, pp. 141-150, 2007.
+11. Melink, S. and S. Raghavan, B.Yang, H. Garcia-Molina. Building a distributed full-text index for the web. ACM Transactions Information Systems, volume 9, number 3, 217-241, 2001.
+12. Raghavan, S. and H. Garcia-Molina. Crawling the Hidden Web. 27th International Conference on Very Large Data Bases (VLDB 2001).
+13. Shi, R. and K. Maly, M. Zubair. Automatic Metadata Discovery from Non-cooperative Digital libraries. Proceedings of the IADIS International Conference on e-Society, 2003.
+14. Thusoo, A. et al. Hive: a warehousing solution over a map-reduce framework. Proceedings of VLDB09', 2009
+15. Wolf, J. L. and M. S. Squillante, P. S. Yu, J. Sethuraman, L. Ozsen. Optimal crawling strategies for web search engines. WWW 2002, pp. 136-147, 2002.
