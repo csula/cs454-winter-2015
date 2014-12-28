@@ -9,8 +9,7 @@
 - **Instructor** John J. Tran
 - **Lecture** Saturday 1:20 PM - 5:00 PM @ ET A309
 - **Office Hours** Saturday 5:15 PM - 6:15 PM or by appointment
-
-**Text Book** _Search Engines: Information Retrieval in Practice_ by Bruce Croft, Donald Metzler, and Trevor Strohman. ISBN: 978-0136072249.  Can be obtained from [Amazon](http://www.amazon.com/Search-Engines-Information-Retrieval-Practice/dp/0136072240) or the CSULA book store.
+- **Text Book** _Search Engines: Information Retrieval in Practice_ by Bruce Croft, Donald Metzler, and Trevor Strohman. ISBN: 978-0136072249.  Can be obtained from [Amazon](http://www.amazon.com/Search-Engines-Information-Retrieval-Practice/dp/0136072240) or the CSULA book store.
 
 ## Grading Allocation
 
