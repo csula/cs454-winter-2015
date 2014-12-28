@@ -14,11 +14,9 @@
 
 ## Grading Allocation
 
-There will be 4 quizzes that are based on textbook and papers. The course will also include 4 programming assignments and a final project.
-
 1. Quizz (4) - 20 points
 2. Homework (4) - 60 points
-3. Project (1) - 15 points
+3. Project - 15 points
 4. Class Participation - 5 points
 
 **Final Project** These homework assignments culminate a final project: a fully functional search engine. Students will engage in a team or individual project to leverage the search engine techniques learned during the course (e.g., ranking, crawling, content analysis and detection, and query models). **Successful completion of the course project is a requirement for passing this course.**
@@ -49,7 +47,7 @@ The schedule below is tentative and is subject to change.
 
 ## References and Reading Assignment
 
-Throughout the course, we we read and discuss a number of papers. Students are expected to read and discuss papers.
+Throughout the course, we will read and discuss a number of papers. Students are expected to read and discuss papers.
 
 1. Abiteboul, S. and M. Preda, and G. Cobena. Adaptive on-line page importance computation. In Proceedings of the 12th International Conference on World Wide Web, pages 280–290, Budapest, Hungary, 2003
 2. Ben-Yitzhak, et al. Beyond basic faceted search. Proceedings of the international conference on Web search and web data mining. pp. 33-44, 2008
