@@ -1,8 +1,9 @@
 # Search Engines Information Retrieval in Practice
 
-**Objective** This course will cover web search engines and their foundation, principles, and elements.
+## Course Overview
 
-**Expection** The class will include lectures on topics relating specifically to search engine technologies and on supplemental paper reading assignments. 
+- **Objective** This course will cover web search engines and their foundation, principles, and elements.
+- **Expection** The class will include lectures on topics relating to search engine technologies and on supplemental paper reading assignments.  Programming assignments will augment theoretical aspects of information retrieval.  **Please understand that this is a graduate-level/upper division engineering course. Please plan on devoting a large amount of time to the programming assignments and course project.**
 
 ## Course Logistics
 
