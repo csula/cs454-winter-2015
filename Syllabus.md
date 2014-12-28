@@ -5,7 +5,7 @@
 - **Objective** This course will cover web search engines and their foundation, principles, and elements.
 - **Expectation** The class will include lectures on topics relating to search engine technologies and on supplemental paper reading assignments.  Programming assignments will augment the theoretical aspects of information retrieval.  Please understand that this is a graduate-level and upper-division engineering course.  As such, students are expected to devote a large amount of time to the programming assignments and course project.
 
-## Course Logistics
+## Logistics
 
 - **Instructor** John J. Tran
 - **Lecture** Saturday 1:20 PM - 5:00 PM @ ET A309
