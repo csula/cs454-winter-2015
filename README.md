@@ -1,4 +1,4 @@
 cs454-winter-2015
 =================
 
-Information Retrieval
+Search Engines Information Retrieval in Practice
