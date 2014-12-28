@@ -25,25 +25,25 @@
 
 The schedule below is tentative and is subject to change.
 
-* 1/10 Reading Assignment: "The anatomy of a large-scale hypertextual Web search engine" by S. Brin and L. Page.  We will have a quiz on this paper on 1/17.  Please be prepared to answer specific questions.
+* **1/10/2015** Reading Assignment: "The anatomy of a large-scale hypertextual Web search engine" by S. Brin and L. Page.  We will have a quiz on this paper on 1/17.  Please be prepared to answer specific questions.
 
-* 1/17 Introduction to information retrieval, source code management (github), software and applications (Java, eclipse, and maven), architecture of a search engine
+* **1/17/2015** Introduction to information retrieval, source code management (github), software and applications (Java, eclipse, and maven), architecture of a search engine
 
-* 1/24 Architecture of a search engine (cont), building a simple search engine in practice [**Quiz 1**]
+* **1/24/2015** Architecture of a search engine (cont), building a simple search engine in practice [**Quiz 1**]
 
-* 1/31 Crawls and feeds
+* **1/31/2015** Crawls and feeds
 
-* 2/7 Reading Assignment: "Crawling the Hidden Web" by S. Raghavan and H. Garcia-Molina.  We will have a quiz on this paper 2/14.  Please be prepared to answer specifc questions.
+* **2/7/2015** Reading Assignment: "Crawling the Hidden Web" by S. Raghavan and H. Garcia-Molina.  We will have a quiz on this paper 2/14.  Please be prepared to answer specifc questions.
 
-* 2/14 Data extraction and text processing [**Quiz 2**]
+* **2/14/2015** Data extraction and text processing [**Quiz 2**]
 
-* 2/21 Ranking and Indexing
+* **2/21/2015** Ranking and Indexing
 
-* 2/28 Query Interfaces [**Quiz 3**].  Reading Assignment: "Hive: a warehousing solution over a map-reduce framework" by A. Thusoo and "Building a distributed full-text index for the web" by S. Melink, S. Raghavan, B.Yang, and H. Garcia-Molina. We will have a quiz on these papers 3/14.  Please be prepared to answer specific questions.
+* **2/28/2015** Query Interfaces [**Quiz 3**].  Reading Assignment: "Hive: a warehousing solution over a map-reduce framework" by A. Thusoo and "Building a distributed full-text index for the web" by S. Melink, S. Raghavan, B.Yang, and H. Garcia-Molina. We will have a quiz on these papers 3/14.  Please be prepared to answer specific questions.
 
-* 3/14 Building a complete search engine using open source software [**Quiz 4**]
+* **3/14/2015** Building a complete search engine using open source software [**Quiz 4**]
 
-* Final Presentation.  More information follow.
+* **Final Presentation**
 
 ## References
 
