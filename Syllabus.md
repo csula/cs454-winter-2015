@@ -29,14 +29,34 @@ There will be 4 quizzes that are based on textbook and papers. The course will a
 
 The schedule below is tentative and is subject to change.
 
+* 1/10 Reading Assignment: "The anatomy of a large-scale hypertextual Web search engine" by S. Brin and L. Page.  We will have a quiz on this paper on 1/17.  Please be prepared to answer specific questions.
+
+* 1/17 Introduction to information retrieval, source code management (github), software and applications (Java, eclipse, and maven), architecture of a search engine
+
+* 1/24 Architecture of a search engine (cont), building a simple search engine in practice [**Quiz 1**]
+
+* 1/31 Crawls and feeds
+
+* 2/7 Reading Assignment: "Crawling the Hidden Web" by S. Raghavan and H. Garcia-Molina.  We will have a quiz on this paper 2/14.  Please be prepared to answer specifc questions.
+
+* 2/14 Data extraction and text processing [**Quiz 2**]
+
+* 2/21 Ranking and Indexing
+
+* 2/28 Query Interfaces [**Quiz 3**].  Reading Assignment: "Hive: a warehousing solution over a map-reduce framework" by A. Thusoo and "Building a distributed full-text index for the web" by S. Melink, S. Raghavan, B.Yang, and H. Garcia-Molina. We will have a quiz on these papers 3/14.  Please be prepared to answer specific questions.
+
+* 3/14 Building a complete search engine using open source software [**Quiz 4**]
+
+* Final Presentation.  More information follow.
+
 ## References and Reading Assignment
 
 Throughout the course, we we read and discuss a number of papers. Students are expected to read and discuss papers.
 
 1. Abiteboul, S. and M. Preda, and G. Cobena. Adaptive on-line page importance computation. In Proceedings of the 12th International Conference on World Wide Web, pages 280–290, Budapest, Hungary, 2003
 2. Ben-Yitzhak, et al. Beyond basic faceted search. Proceedings of the international conference on Web search and web data mining. pp. 33-44, 2008
-3. Brin, S. and L. Page. The anatomy of a large-scale hypertextual Web search engine. Computer Networks and ISDN Systems. Vol. 30, No. 1-7, pp. 107-117, 1998. Chakrabarti, S. and B. Dom, D. Gibson, J. Kleinberg, S.R. Kumar, P. Raghavan, S. Rajagopalan,
-4. A. Tomkins, Hypersearching the Web. Scientific American, June 1999.
+3. Brin, S. and L. Page. The anatomy of a large-scale hypertextual Web search engine. Computer Networks and ISDN Systems. Vol. 30, No. 1-7, pp. 107-117, 1998. 
+4. Chakrabarti, S. and B. Dom, D. Gibson, J. Kleinberg, S.R. Kumar, P. Raghavan, S. Rajagopalan, A. Tomkins, Hypersearching the Web. Scientific American, June 1999.
 5. Clough, P. Extracting metadata for spatially-aware information retrieval on the internet. Proceedings of the Workshop on Geographic Information Retrieval, pp. 25-30, 2005.
 6. Hastorun et al. Dynamo: Amazon's Highly Available Key-Value Store. Proceedings of the ACM Symposium on Operating System Principles (SOSP). pp. 205-220, 2007.
 7. Hogan, A. and A. Harth, J. Umrich, S. Decker.Towards a scalable search and query engine for the web.Proceedings of the 16th International Conference on the World Wide Web, 2007.
