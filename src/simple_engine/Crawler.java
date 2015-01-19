@@ -25,7 +25,6 @@ public class Crawler {
 				System.out.println("File:" + f.getAbsoluteFile());
 				// extract f
 				Map<String,String> metadata = Extraction.extract(f);
-				
 				// store metadata
 				Storage.save(f, metadata);
 			}
@@ -33,8 +32,11 @@ public class Crawler {
 	}
 
 	public static void main(String[] args) {
-		String startDir = args[0];
-		new Crawler().walk(startDir);
+	    try {
+		    String startDir = args[0];
+    		new Crawler().walk(startDir);
+	    } catch (Exception ex) {
+	        // handle an exception accordingly
+	    }
 	}
-
 }
