@@ -3,8 +3,7 @@ package simple_engine;
 public class Indexer {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		// this program creates indices for faster and multi-dimensional searching
 	}
 
 }
