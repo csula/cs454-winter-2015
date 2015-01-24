@@ -1,4 +1,4 @@
-# Mavenu Tutorial
+# Maven Tutorial
 
 1. Download maven from apache
 2. Set your `JAVA_HOME` path if you have not already done it
