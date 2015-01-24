@@ -1,7 +1,8 @@
 # Mavenu Tutorial
 
 1. Download maven from apache
-2. Create a application folder:
+2. Set your `JAVA_HOME` path if you have not already done it
+3. Create a application folder:
 
 ```
 mvn archetype:generate \
