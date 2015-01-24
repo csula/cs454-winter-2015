@@ -4,5 +4,10 @@
 2. Create a application folder:
 
 ```
-mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+mvn archetype:generate \
+   -DgroupId=edu.calstatela.cs454.instructor.crawler \
+   -DartifactId=crawler-app \
+   -DarchetypeArtifactId=maven-archetype-quickstart \
+   -DinteractiveMode=false
 ```
+
