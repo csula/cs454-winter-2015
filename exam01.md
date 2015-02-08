@@ -6,17 +6,17 @@ Write a crawler program as followed:
 
 (a) The crawler application crawls the computer starting with a specified path and recursively visit all files.
 
-(b) The crawler is only interested in `xlxs` files.  It ignores everything else.
+(b) The crawler is only interested in `xlsx` files.  It ignores everything else.
 
-(d) Once it finds an xlxs file, it will crack open the document and keep only the create date and author
+(d) Once it finds an xlsx file, it will crack open the document and keep only the create date and author
 
 (c) The crawler must save information to a metadata file: `metadata.txt` and this file should look like this:
 
 ```
-file: /path/to/file.xlxs
+file: /path/to/file.xlsx
 date: Fri Feb  6 20:37:29 PST 2015
 author: John T.
-file: /path/to/file2.xlxs
+file: /path/to/file2.xlsx
 date: Fri Feb  6 20:47:29 PST 2015
 author: Michael J.
 ```
@@ -24,12 +24,12 @@ author: Michael J.
 
 ```
 {
-  file : /path/to/file.xlxs
+  file : /path/to/file.xlsx
   data : 'Fri Feb  6 20:37:29 PST 2015'
   author: 'John T.'
 }
 {
-  file : /path/to/file2.xlxs
+  file : /path/to/file2.xlsx
   data : 'Fri Feb  6 20:47:29 PST 2015'
   author: 'Michael J.'
 }
