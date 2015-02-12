@@ -25,12 +25,12 @@ author: Michael J.
 ```
 {
   file : /path/to/file.xlsx
-  data : 'Fri Feb  6 20:37:29 PST 2015'
+  date : 'Fri Feb  6 20:37:29 PST 2015'
   author: 'John T.'
 }
 {
   file : /path/to/file2.xlsx
-  data : 'Fri Feb  6 20:47:29 PST 2015'
+  date : 'Fri Feb  6 20:47:29 PST 2015'
   author: 'Michael J.'
 }
 
