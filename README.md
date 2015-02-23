@@ -4,6 +4,8 @@
 
 Please refer to the [syllabus](https://github.com/csula/cs454-winter-2015/blob/master/Syllabus.md) for more information about the course.  
 
+Visit [google's groups](https://groups.google.com/forum/#!forum/search-engine-construction-kit) to discuss this course.
+
 ## Homework 1
 
 The focus of this homework assignment is **crawling**.  Write a program that crawls the Internet given a seed URL.  Your crawler program will need crawling guidance.
