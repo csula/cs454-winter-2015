@@ -59,17 +59,19 @@ java -jar exam2.jar http://ocean.pcwerk.com/~jtran/search/a.html
 The output should look like this:
 
 ```
+# word [document #:# of occurence(s)]
 fish [1:1] [2:3] ...
 reptile [1:2] [2:2] ...
 ```
 and
 
 ```
-a.html 0.24
-b.html 0.21
-c.html 0.12
-d.html 0.50
-e.html 0.78
+# document number, page.html, ranking
+1. a.html 0.24
+2. b.html 0.21
+3. c.html 0.12
+4. d.html 0.50
+5. e.html 0.78
 ```
 
 Note that the above is not the actual output -- just the example format for your reference.
