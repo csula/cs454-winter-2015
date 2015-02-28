@@ -49,6 +49,10 @@ Give the following URL: `http://ocean.pcwerk.com/~jtran/search/a.html`.  Write a
 Your java program should be executed as followed:
 
 ```bash
+mvn clean
+mvn compile
+mvn package
+cd target
 java -jar exam2.jar http://ocean.pcwerk.com/~jtran/search/a.html
 ```
 
