@@ -17,7 +17,7 @@ The `ranking.json` file contains a listing of documents and their ranking values
 Use maven and java to write the index-rank application.  Your program should be executed as followed:
 
 ```
-java -jar index.jar -c <control-file json> -s <stop-word json> -i <index json> -r <rank json>
+java -jar index.jar -c <control-file json> -s <stop-word txt> -i <index json> -r <rank json>
 ```
 
 ## Grading 
